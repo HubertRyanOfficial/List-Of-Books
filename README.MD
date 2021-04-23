@@ -35,7 +35,7 @@ First, you need to **clone this project** to an ideal location on your computer.
 Remembering that in this project we use **Expo**, so to start this project you must have installed _Expo CLI_ to be able to work.
 
 ```sh
-$ git clone https://github.com/HubertRyanOfficial/Authentication-W-React-Js.git
+$ git clone https://github.com/HubertRyanOfficial/Foton-Test.git
 ```
 
 or
