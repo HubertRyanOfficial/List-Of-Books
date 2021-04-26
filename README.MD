@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/13947203/114562602-04ac2880-9c45-11eb-8f33-cc6637c475fb.png" width="900" title="Authentication Logo">
 </p>
 
-# Books (Foton Test)
+# List Of Books
 
 In this project you will have a list with your favorites books, you can add new books and listening when you want, without any authentication, everything is stored offline, facilitating the user experience.<br/>**by Hubert Ryan!**
 
